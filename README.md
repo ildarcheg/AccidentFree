@@ -1,0 +1,2 @@
+# AccidentFree
+for AccidentFree configuration
